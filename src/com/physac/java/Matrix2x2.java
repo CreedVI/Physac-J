@@ -2,10 +2,10 @@ package com.physac.java;
 
 public class Matrix2x2{
 
-    float m00;
-    float m01;
-    float m10;
-    float m11;
+    public float m00;
+    public float m01;
+    public float m10;
+    public float m11;
 
     Matrix2x2(){
         m00 = 0;

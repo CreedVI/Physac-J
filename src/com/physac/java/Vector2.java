@@ -2,7 +2,7 @@ package com.physac.java;
 
 public class Vector2 {
 
-    float x,y;
+    public float x,y;
 
     public Vector2(){
         this.x = 0;
